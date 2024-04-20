@@ -8,7 +8,8 @@ function Tours(props){
 //         you should avoid passing key as a prop or attempting to use it within your components. If you need to pass an identifier for your components, you should use a different prop name.
 
 // For example, if you need to identify each Card component by its id, you could pass it as a different prop, such as itemId, id, or any other suitable name:
-        <Card itemId ={item.id}
+        <Card key={item.id} 
+              itemId ={item.id}
               image = {item.image} 
               name = {item.name}
               price = {item.price}
