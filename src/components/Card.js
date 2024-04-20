@@ -14,7 +14,6 @@ function Card(props){
     return(
         <div className='Card'>
             <img src={props.image} alt={`${props.name} city image`}></img>
-
             <div className='Card-Content'>
                 <h4 className='Card-Content-price'>$ {props.price}</h4>
                 <h4 className='Card-Content-name'>{props.name}</h4>
@@ -31,6 +30,7 @@ function Card(props){
                         (
                             <div>
                                     {/* {props.info.slice(0,maxlength)} */}
+                                    {/* for empty info it also won't show "...." */}
                                     {props.info.length > maxLength && (
                                         <>
                                         {props.info.slice(0, maxLength)}
