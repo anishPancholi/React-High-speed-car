@@ -15,7 +15,7 @@ function App(){
 
   const element = tour.length ?
                   <div className="App">
-                  <h1 className="App-header">High-Speed Cars</h1>
+                  <h1 className="App-header">Car Catalog Web App</h1>
                   <Tours data={tour} handleItemClick={handleItemClick}></Tours>
                 </div> :
                 <Refresh></Refresh>;
