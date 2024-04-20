@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-High-speed-car/static/css/main.7605f70c.css",
-    "main.js": "/React-High-speed-car/static/js/main.2038a19c.js",
+    "main.css": "/React-High-speed-car/static/css/main.c9e58e06.css",
+    "main.js": "/React-High-speed-car/static/js/main.23837d0b.js",
     "index.html": "/React-High-speed-car/index.html",
-    "main.7605f70c.css.map": "/React-High-speed-car/static/css/main.7605f70c.css.map",
-    "main.2038a19c.js.map": "/React-High-speed-car/static/js/main.2038a19c.js.map"
+    "main.c9e58e06.css.map": "/React-High-speed-car/static/css/main.c9e58e06.css.map",
+    "main.23837d0b.js.map": "/React-High-speed-car/static/js/main.23837d0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7605f70c.css",
-    "static/js/main.2038a19c.js"
+    "static/css/main.c9e58e06.css",
+    "static/js/main.23837d0b.js"
   ]
 }
