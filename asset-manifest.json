@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-High-speed-car/static/css/main.7605f70c.css",
+    "main.js": "/React-High-speed-car/static/js/main.2255c754.js",
+    "index.html": "/React-High-speed-car/index.html",
+    "main.7605f70c.css.map": "/React-High-speed-car/static/css/main.7605f70c.css.map",
+    "main.2255c754.js.map": "/React-High-speed-car/static/js/main.2255c754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7605f70c.css",
+    "static/js/main.2255c754.js"
+  ]
+}
