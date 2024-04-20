@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.App{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Poppins, sans-serif;
+}
+
+.App-header{
+    /* padding:0.8rem 1.8rem;
+    border-radius: 1rem;
+    border: 0.4rem dashed blue;
+    font-size: 3.5rem;
+    font-weight:bolder;
+    margin-block-start: 2.5rem;
+    margin-block-end: 3rem; */
+    border: 7px dashed #0111a0;
+    border-radius: 20px;
+    font-size: 3rem;
+    margin: 6vh;
+    padding: 1vh 5vw;
+}
